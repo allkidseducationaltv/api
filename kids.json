@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "9-t2JKo54BkWOkkVHg1sFTETYX8",
+  "etag": "DCjwDZi2UGoxjMHhsvRunAaw4eM",
   "nextPageToken": "CDIQAA",
   "regionCode": "NG",
   "pageInfo": {
@@ -10,207 +10,1702 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "kxIHphnwZkhnEfSUTnPxPxBCIAg",
+      "etag": "bTLedR7ZUa7gz4ySDlEoag_5IEQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "CPtEov5PeLU"
+        "videoId": "bC3UtTYVNlM"
       },
       "snippet": {
-        "publishedAt": "2024-04-05T05:00:06Z",
-        "channelId": "UCuUS495hYAlL0SC9r0XkiQQ",
-        "title": "Mommy Is My Hero | Kids Cartoons and Nursery Rhymes",
-        "description": "KidsCartoons #NurseryRhymes #SingAlongs (  ) Subscribe to Little Angel for New Videos ...",
+        "publishedAt": "2024-08-24T12:00:40Z",
+        "channelId": "UCYqHX3W_T00U7RbfJzDE4eQ",
+        "title": "The New Kid | Booboo Stewart (Twilight, The Descendants) | Teen | Full Movie",
+        "description": "While spending the summer at his grandfather's farm, Ben learns about the importance of friendship, family and responsibility with ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CPtEov5PeLU/default.jpg",
+            "url": "https://i.ytimg.com/vi/bC3UtTYVNlM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CPtEov5PeLU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bC3UtTYVNlM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CPtEov5PeLU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bC3UtTYVNlM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Kids Cartoons and Nursery Rhymes - Little Angel",
+        "channelTitle": "Boxoffice | TEENS | Full Movies",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-04-05T05:00:06Z"
+        "publishTime": "2024-08-24T12:00:40Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "8ewdiA1y6OBuPW3Dj4t1LwfQFzs",
+      "etag": "It3fD4IeIP1ktlj2RvyF60UtOus",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4gmGYPLNx_A"
+        "videoId": "WTi3lK4fpfg"
       },
       "snippet": {
-        "publishedAt": "2022-05-15T10:30:00Z",
-        "channelId": "UCpYye8D5fFMUPf9nSfgd4bA",
-        "title": "Truck and Street Vehicles - Garbage Truck | Learning Vehicles | Kids Song | Kids Cartoon | BabyBus",
-        "description": "Enjoy listening to Garbage Truck Song by BabyBus. These kids songs are great for learning vehicles, occupations, alphabets, ...",
+        "publishedAt": "2025-04-16T10:48:52Z",
+        "channelId": "UCXoXJ7Tw400KF6HFJk4KM0Q",
+        "title": "The new kid! || Toca Boca voiced role-play",
+        "description": "toca #preppytoca #trending #tocaboca #tocaadventure #tocalife #tocaworld #tocaedit #kidsgames #tocabocarp.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4gmGYPLNx_A/default.jpg",
+            "url": "https://i.ytimg.com/vi/WTi3lK4fpfg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4gmGYPLNx_A/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WTi3lK4fpfg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4gmGYPLNx_A/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WTi3lK4fpfg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BabyBus - Kids Songs and Cartoons",
+        "channelTitle": "𝓣𝓸𝓬𝓪_𝓫𝓵𝓪𝓲𝓻🪷",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-05-15T10:30:00Z"
+        "publishTime": "2025-04-16T10:48:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MrZ4KVdVh_J1-nn6_Rlb2HCB0l0",
+      "etag": "nK6k4proTA1cV5-nmQsVR3VCenU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "9SS-uoeWgcs"
+        "videoId": "X5STIJkcXzo"
       },
       "snippet": {
-        "publishedAt": "2024-11-15T11:00:10Z",
-        "channelId": "UCVi_GtP-1stDmhPuWCCQ5KA",
-        "title": "Ice Cream Factory Fun | Eli Kids Songs &amp; Cartoons",
-        "description": "Download Eli Kids App https://apps.apple.com/gb/app/eli-kids/id1383129134 1 Best Kids Songs: ...",
+        "publishedAt": "2024-11-10T08:00:22Z",
+        "channelId": "UCugiTRpz7c2eStGB2uZ4DDA",
+        "title": "The New Kid | The Deep Season 1 🦈 Ep 14 | HD Full Episode",
+        "description": "Welcome to The Deep Official channel by WildBrain! Subscribe for more ➡ http://bit.ly/2Eoki0s The Nekton family are ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/9SS-uoeWgcs/default.jpg",
+            "url": "https://i.ytimg.com/vi/X5STIJkcXzo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/9SS-uoeWgcs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X5STIJkcXzo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/9SS-uoeWgcs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/X5STIJkcXzo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Eli Kids - Cartoons & Songs",
+        "channelTitle": "The Deep",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-11-15T11:00:10Z"
+        "publishTime": "2024-11-10T08:00:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5T29TogYVJFZ4UF33zBnx82IMNk",
+      "etag": "uGfWud3ZkDoJVNtA5JuX6leHpss",
       "id": {
         "kind": "youtube#video",
-        "videoId": "LZhL-Zgglp0"
+        "videoId": "tBO5GLRmsGI"
       },
       "snippet": {
-        "publishedAt": "2024-04-10T05:00:07Z",
-        "channelId": "UCuUS495hYAlL0SC9r0XkiQQ",
-        "title": "10 Babies on the Slide | Kids Cartoons and Nursery Rhymes",
-        "description": "KidsCartoons #NurseryRhymes #SingAlongs (  ) Subscribe to Little Angel for New Videos ...",
+        "publishedAt": "2025-03-15T12:00:06Z",
+        "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+        "title": "I Turned into a Kid | Alan&#39;s Universe",
+        "description": "Watch our latest episode ➡️ https://youtu.be/pN_kCx9bSAA Hi Heroes, this is Alan Chikin Chow! Welcome to my new drama ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LZhL-Zgglp0/default.jpg",
+            "url": "https://i.ytimg.com/vi/tBO5GLRmsGI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LZhL-Zgglp0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tBO5GLRmsGI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LZhL-Zgglp0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tBO5GLRmsGI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Kids Cartoons and Nursery Rhymes - Little Angel",
+        "channelTitle": "Alan's Universe",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-04-10T05:00:07Z"
+        "publishTime": "2025-03-15T12:00:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vHfV1ct_CKLPF75PJVTZYUuusdc",
+      "etag": "OoNtN8NTj6hcWcNjW_PD5JkTsKg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "XzHEHZj3kSc"
+        "videoId": "8rC0gdg6Ymo"
       },
       "snippet": {
-        "publishedAt": "2024-11-08T11:00:46Z",
-        "channelId": "UCVi_GtP-1stDmhPuWCCQ5KA",
-        "title": "Slime Playing Fun | Eli Kids Songs &amp; Cartoons",
-        "description": "Download Eli Kids App https://apps.apple.com/gb/app/eli-kids/id1383129134 1 Best Kids Songs: ...",
+        "publishedAt": "2025-02-18T06:01:51Z",
+        "channelId": "UCRkuUgtDAL4XSU5jB40J_wA",
+        "title": "New Kid STEALS BOY&#39;S Girlfriend",
+        "description": "Hope you enjoy :) FOLTYN FAMILY STORE: https://foltynfamily.myshopify.com/ Become a Member Of The Channel: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XzHEHZj3kSc/default.jpg",
+            "url": "https://i.ytimg.com/vi/8rC0gdg6Ymo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XzHEHZj3kSc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8rC0gdg6Ymo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XzHEHZj3kSc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8rC0gdg6Ymo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Eli Kids - Cartoons & Songs",
+        "channelTitle": "Foltyn",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-11-08T11:00:46Z"
+        "publishTime": "2025-02-18T06:01:51Z"
       }
     },
-   
     {
       "kind": "youtube#searchResult",
-      "etag": "8e6FLQmAtZXPZwOWnQTkO9W7uPA",
+      "etag": "xMqINePM_thGmN5yo7Dlwg44l8w",
       "id": {
         "kind": "youtube#video",
-        "videoId": "gaRFLztmazA"
+        "videoId": "B794JV75t18"
       },
       "snippet": {
-        "publishedAt": "2024-10-19T12:48:47Z",
-        "channelId": "UCkh2c14z2R3TikzPPsoESTg",
-        "title": "Pea Pea Explore Black Pink Oreo Vending Machine 🍩 Cartoon For Kids 💖 Pea Pea World",
-        "description": "Welcome back to Pea Pea world! Pea Pea is a happy, lovely boy who always loves to explore colorful life. In today's episode \"Pea ...",
+        "publishedAt": "2023-10-23T14:16:54Z",
+        "channelId": "UCVB5y3G0BUlMf3xHqna08UA",
+        "title": "New Kids On The Block Greatest Hits #90ssongs #bestband",
+        "description": "New Kids on the Block (also initialized as NKOTB) is an American boy band from Dorchester, Massachusetts. The band consists ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gaRFLztmazA/default.jpg",
+            "url": "https://i.ytimg.com/vi/B794JV75t18/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gaRFLztmazA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/B794JV75t18/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gaRFLztmazA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/B794JV75t18/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "PeaPea World",
+        "channelTitle": "Ander Hugger",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-10-19T12:48:47Z"
+        "publishTime": "2023-10-23T14:16:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4YyhKQj_1061GE_l22iAF7z6xew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-UtUuT8AJjQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-13T13:45:00Z",
+        "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
+        "title": "Recess First Full Episode | The Break In / The New Kid | S1 E1 | @disneychannelanimation",
+        "description": "Watch the first full episode of Recess \"The Break In!\" TJ has to be rescued after he rebels against school meals, and is caught in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-UtUuT8AJjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-UtUuT8AJjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-UtUuT8AJjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disney Channel Animation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-13T13:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Sao15_RJNw088y1MypfDJF-T9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gIG2e2LAaQo"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-13T13:00:38Z",
+        "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+        "title": "Escape from CARDBOARD PRISON Challenge",
+        "description": "Roma and his friends have to escape from CARDBOARD PRISON! Very weird challenge! But how will they get out of there?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gIG2e2LAaQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gIG2e2LAaQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gIG2e2LAaQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "✿ Kids Diana Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-13T13:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_1D0r7pH9l4QAnwMsv3jdMN_77M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qVgcwJWSWYQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-02T06:00:44Z",
+        "channelId": "UCN3Klm3XcR5nxM3wc4rGZ1w",
+        "title": "The New Kid - [Part 1] South Park Stick Of Truth",
+        "description": "New Kid On The Block - [Part 1] South Park Stick Of Truth * I start a new gameplay series on South Park The Stick of Truth. Season ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qVgcwJWSWYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qVgcwJWSWYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qVgcwJWSWYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ImStrike",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-02T06:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXQYK2AZEjXuWuifOg8lP64mCTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CkZdkEFs_5Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-21T17:00:24Z",
+        "channelId": "UCM43IAWP6no_SKM6s63q78g",
+        "title": "The NEW KID everyone thought was WEAK turned out to be the most FEARED ruler of the school!",
+        "description": "The NEW KID everyone thought was WEAK turned out to be the most FEARED ruler of the school! Get ready for an action-packed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CkZdkEFs_5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CkZdkEFs_5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CkZdkEFs_5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RECAP KING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-21T17:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Td_-bIYMgN3jSlgcaE2tqI56p6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g9YlacLA2ro"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-19T21:30:09Z",
+        "channelId": "UCwKOXA_I80OH095LdLBDXsA",
+        "title": "NEW KID In School Has CRAZY PAST, What Happens Is Shocking | Illumeably",
+        "description": "Illumeably has one goal: to spread positivity around the world. By sharing our videos, you are joining us on a mission to truly make ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g9YlacLA2ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g9YlacLA2ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9YlacLA2ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Illumeably",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-19T21:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qKKPZrH-5WSlT6Tzggv337hTO98",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q2HHwwoJYWg"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-24T11:00:15Z",
+        "channelId": "UCmUvq3hhUttgMM5Mq-Vk-nA",
+        "title": "Slugterra | The New Kid: Part 1 &amp; 2",
+        "description": "The four members of the Shane Gang think they've found the fifth in Twist, a street-smart kid who volunteers his help when the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q2HHwwoJYWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q2HHwwoJYWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2HHwwoJYWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Slugterra - WildBrain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-24T11:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0I5IgIFmKnkqBIVChZRhZ14lOD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jRpW4WcYEhg"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-11T21:00:11Z",
+        "channelId": "UC_VRkdWf1VNG6SkFpb77ikQ",
+        "title": "The Presidents: New Kid in School!",
+        "description": "A new kid has come to school and is going to join class with the president's! At first, not everyone is so happy about the new kid's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRpW4WcYEhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRpW4WcYEhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRpW4WcYEhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Saint Splooge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-11T21:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OVbghGVY_UiPX4FrJ-ydZE5w47A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NZlsgn6LKp4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-08T11:00:17Z",
+        "channelId": "UCmUvq3hhUttgMM5Mq-Vk-nA",
+        "title": "The New Kid: Part 2 | Slugterra | Full Episode",
+        "description": "The four members of the Shane Gang think they've found the fifth in Twist, a street-smart kid who volunteers his help when the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZlsgn6LKp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZlsgn6LKp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZlsgn6LKp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Slugterra - WildBrain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-08T11:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M32W3PpzuFm-5cW1mWKr-aqajxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vslXe4ftN30"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T14:32:46Z",
+        "channelId": "UC5Hi0UkephOloKgZKLM9e-w",
+        "title": "WE ADOPTED A GIRL!",
+        "description": "WE ADOPTED A GIRL! | The Anazala family Today My Daughter Mila adopts a new sister while my husband convinces me we ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vslXe4ftN30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vslXe4ftN30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vslXe4ftN30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Anazala Family ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T14:32:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g0NjMnQUBaoZ4NBtK9czO_CD0-0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ciMNG_J6G7s"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-18T12:00:09Z",
+        "channelId": "UCTn45orVsFOsNZHxAJcZK5g",
+        "title": "Barney | FULL Episode | The New Kid | Season 11",
+        "description": "WATCH A NEW BARNEY VIDEO EVERY THURSDAY RIGHT HERE ON THE OFFICIAL YOUTUBE CHANNEL. Welcome to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ciMNG_J6G7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ciMNG_J6G7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ciMNG_J6G7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Barney the Dinosaur",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-18T12:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aSzTB74JvqGkZ9VgDX8TvZIy-lw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WRdcPuUrLFs"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-10T11:00:04Z",
+        "channelId": "UCNuLcjVa3vCeHFyUeTKtBlA",
+        "title": "Lazy Town | New Kid In Town | Full Episode",
+        "description": "Lazy Town - New Videos!: http://bit.ly/2pomR9p Pinocchio shows up in LazyTown to help Robbie lie to the kids, convincing them ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WRdcPuUrLFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WRdcPuUrLFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WRdcPuUrLFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LazyTown",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-10T11:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D1zl1SSoI8pZsZGt2pSeiZSUvLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eFhV070rcIg"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-06T19:00:02Z",
+        "channelId": "UC2BgXrFhMJaqCeUBxj-qBxA",
+        "title": "New Kid in Town |  Season 1 Episode 19 | BRATZ",
+        "description": "Your week just got hit with some bratitude! Iconic fashion, juicy drama, and that unbreakable Bratz bond. We're serving that same ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eFhV070rcIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eFhV070rcIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eFhV070rcIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bratz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-06T19:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jtwd_N75u0E_jZFSHTzyvfzvHsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hNdtVgsgxYc"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-17T14:00:59Z",
+        "channelId": "UCvQlTM5HYH-zYz38JHtZ15A",
+        "title": "The New Kid | Caillou Compilations - WildBrain | Full HD Episodes",
+        "description": "Subscribe to Caillou Toys: http://bit.ly/2q1KI25 More Caillou Toys videos here ➩http://bit.ly/2wFk6Hs Best Caillou storys ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNdtVgsgxYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNdtVgsgxYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNdtVgsgxYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Caillou Compilations - WildBrain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-17T14:00:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bQ5Gho6nivGE7LeddN09j9MkS7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LpJvAnkzYM8"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-13T14:45:05Z",
+        "channelId": "UCoBWv0K2ZVQdowbhvgePPQQ",
+        "title": "[COMIC DUB] FNAF Fazbear Frights: The New Kid",
+        "description": "The Fazbear Frights series continues with another bone-chilling tale to keep even the bravest Five Nights at Freddy's player up at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpJvAnkzYM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpJvAnkzYM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpJvAnkzYM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elementia Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-13T14:45:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_dT9RqqaJb-P9nEa3jbrJzibDFY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "laLHtwpI26c"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-17T12:45:06Z",
+        "channelId": "UCC5A2UC5yCUVcvgIfxE6b_Q",
+        "title": "Dj Felix Newkid   Groove Vibe #2",
+        "description": "Wlecome to Groove vibe a musical mix series . This is a celebration of rhythm,soul and energy,created to keep you moving from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/laLHtwpI26c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/laLHtwpI26c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/laLHtwpI26c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Groove Vibe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-17T12:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qogy4ka9MA_UdA2_bC-SZ9HST9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bl2czT-S_Zs"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-31T15:05:10Z",
+        "channelId": "UCTn45orVsFOsNZHxAJcZK5g",
+        "title": "Barney Full Episode  - New Kid",
+        "description": "When Riff meets a new kid in the Park, they become fast friends. BJ feels left out, thinking his friend Riff has abandoned him.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bl2czT-S_Zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bl2czT-S_Zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bl2czT-S_Zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Barney the Dinosaur",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-31T15:05:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bPOGdbYNZ4bZl9lDzIe67T7H7WE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LzO9lK4B0tk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-29T13:49:43Z",
+        "channelId": "UCtBTcWtOSef9Sf3isKp7K9A",
+        "title": "New Kid Series Live Show",
+        "description": "Come join us as we discuss New Kid, Class Act, and School Trip! I'm excited for us to dive into this amazing middle grade graphic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LzO9lK4B0tk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LzO9lK4B0tk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LzO9lK4B0tk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RealmofKidLitComics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-29T13:49:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0hhhOLwCOZCur3k4JeNsmPBvA9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "spvK7ttyJdM"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-02T09:58:40Z",
+        "channelId": "UCr6TsDOKScynFRx9EG3YRxQ",
+        "title": "Bullies Thought This New Kid Is Just Nerd But He Is The Most Powerful [PART 2] | K drama Explained |",
+        "description": "Bullies Thought This New Kid Is Just Nerd But He Is The Most Powerful In School PART 2 | K drama Explained In Hindi/Urdu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spvK7ttyJdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spvK7ttyJdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spvK7ttyJdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Watch Mysteries हिंदी ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-02T09:58:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sh1JMVRmkGAgOpoll7tagKFRt_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qa-7RSearp4"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-17T18:13:57Z",
+        "channelId": "UCtxClxzoNs6cwwOOxO1C8nw",
+        "title": "Cory In The House - New Kid In Town-- Season01Episode01",
+        "description": "Cory In The House - New Kid In Town - Season01Episode01.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qa-7RSearp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qa-7RSearp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qa-7RSearp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rochell Lesia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-17T18:13:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RV3l4SLCm97WYKhgTbc4BY00Wfg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b9jVNm0bw7Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-26T15:30:03Z",
+        "channelId": "UC-yA8YhrAgpFp4aVHRaNyMA",
+        "title": "A HISTÓRIA DE THE NEW KID. Resumo FNAF Fazbear Fright.",
+        "description": "SE INSCREVA: http://bit.ly/2UuijS0 Confira a Pichau: http://bit.ly/PichauCore Lives Aqui: https://bit.ly/3dEQ3Ua Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b9jVNm0bw7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b9jVNm0bw7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b9jVNm0bw7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Core",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-26T15:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LhNsU-HHLvNj9WByeMspjnfKbV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "89e-pGVzCfQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-02T17:50:23Z",
+        "channelId": "UCjG-mqz75RloOhdQahFihQA",
+        "title": "The New Kid - Fazbear Frights | Audiobook",
+        "description": "This is an audiobook recording of The New Kid, the third story of the third volume of Five Nights at Freddy's: Fazbear Frights.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/89e-pGVzCfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/89e-pGVzCfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/89e-pGVzCfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RyeDoze",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-02T17:50:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2mGm-x2ZMdKOJ5UQr8uM03Yeawc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xXvGoXwqHS4"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-24T01:35:12Z",
+        "channelId": "UCjKQ81RGEyZE8szgEGjmADw",
+        "title": "New Kid In Town Guitar Lesson",
+        "description": "New Kid In Town guitar lesson by The Eagles. With 20 Million views on this channel Michael will help you reach your goals.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXvGoXwqHS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXvGoXwqHS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXvGoXwqHS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Essential Guitar Lessons",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-24T01:35:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F1hm2_mOcCpDmlZHvTSKtf4GzK8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V1XqjVPm9OU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-29T23:00:38Z",
+        "channelId": "UC_l5NBCJrwEfR0ne-KTlQ5Q",
+        "title": "School New Kid? More Like Identity Theft | Compilation | Clarence | Cartoon Network",
+        "description": "Clarence thought it was just another school day… until he boarded the WRONG BUS ‼️   and ended up somewhere totally new!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V1XqjVPm9OU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V1XqjVPm9OU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V1XqjVPm9OU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clarence",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-29T23:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rMybBnbz4-E__s7td-cnWjvMcPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hcVLqtKP3V0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-14T10:00:26Z",
+        "channelId": "UCV1hn6HsBw2rnUgzRzhH17A",
+        "title": "New Kid in School - Making Friends | Go Buster | Classic Vehicle, Truck and Car Cartoons for Kids",
+        "description": "A new kid has joined the school - Ash the shy little fire truck. Ash wants to play and make friends! Subscribe for more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hcVLqtKP3V0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hcVLqtKP3V0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hcVLqtKP3V0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Go Buster - Classic Kids Cartoons",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-14T10:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ed7LW81ehkUrJYGcadHG89n8nU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-1v-MuLoYzs"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-01T09:22:08Z",
+        "channelId": "UCr6TsDOKScynFRx9EG3YRxQ",
+        "title": "Bullies Thought This New Kid Is Just Nerd But He Is The Most Powerful In School | K drama Explained",
+        "description": "Bullies Thought This New Kid Is Just Nerd But He Is The Most Powerful In School | K drama Explained In Hindi/Urdu | Summarized ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-1v-MuLoYzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-1v-MuLoYzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-1v-MuLoYzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Watch Mysteries हिंदी ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-01T09:22:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RD7py0vRiS8CUFSZ1QRMCVvtkCo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6KfDCyhocIY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-25T23:00:05Z",
+        "channelId": "UCFJm112mEZCeQxfUFmJWvQA",
+        "title": "NEW KID IN TOWN🔔THE BEST OF NONSTOP SLOW ROCK LOVE SONGS BY EMERSON CONDINO AND REY MUSIC COLLECTI",
+        "description": "NEW KID IN TOWN  THE BEST OF NONSTOP SLOW ROCK LOVE SONGS BY EMERSON CONDINO AND REY MUSIC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6KfDCyhocIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6KfDCyhocIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6KfDCyhocIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jensen Hudson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-25T23:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WZ3jEsRjWPjk9DFvDZqL2yX7jTI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TYXJyxT7QN4"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-01T01:00:00Z",
+        "channelId": "UCsyy-7aD3XzdL_zEqZosjzQ",
+        "title": "Living Books: The New Kid on the Block - Full Gameplay/Walkthrough (Longplay)",
+        "description": "Watch the complete gameplay/walkthrough of Living Books: The New Kid on the Block - Read and Play! Enjoy! Get ready for a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TYXJyxT7QN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TYXJyxT7QN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TYXJyxT7QN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dangerous Boy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-01T01:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UtEm878V-sxDICPcufYa2kkAc5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6D5teHOvxWo"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T20:38:00Z",
+        "channelId": "UCIVgwNInFTcstc0cILr5Kpg",
+        "title": "Easy Crochet Baby Blanket / &quot;New Kid On The Block&quot;",
+        "description": "Check out the Official Bag-O-Day Merch Shop! Cool designs for yarn and crochet lovers Click here for Official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6D5teHOvxWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6D5teHOvxWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6D5teHOvxWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bag-O-Day Crochet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T20:38:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vAH-iI0eqP_RAqoJZn1Yp1qgLTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oBCN2ZkrV84"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-09T15:21:06Z",
+        "channelId": "UCKM4AFNEwWNvY-60hgct7yg",
+        "title": "FORTNITE__Wildkid2012_\\wilddesheL2012_cla[new_kid onthe2012]",
+        "description": "Fortnite.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oBCN2ZkrV84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oBCN2ZkrV84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oBCN2ZkrV84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wildkid2012 Fortnight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-09T15:21:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oSgbR_CRFFAbuY-WpOcWxywu_xc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dV59A-J1U2Q"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-09T00:04:32Z",
+        "channelId": "UCDRus6j75uSosnuqZDizMJQ",
+        "title": "Girls Teach The New KID A Lesson What Happens is SHOCKING! | OHSO FAMILY",
+        "description": "Thanks for watching don't forget to SUBSCRIBE AND SHARE! NEW VIDEOS EVERY WEEK‼️ For business please email ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dV59A-J1U2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dV59A-J1U2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dV59A-J1U2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OHSO FAMILY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-09T00:04:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VWEDsPGMNaxk-MdBfIQgBMGzQ8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "srfBmQFGYfY"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-01T15:13:16Z",
+        "channelId": "UCgW2OMdAtwcgs50-dg6m6Sw",
+        "title": "Newkid - Pantamera med Esporten Talkshow [ENG SUBS]",
+        "description": "Tionde avsnittet av Pantamera med Esporten Talkshow och vi träffar Alexander 'Newkid' Ferrer, en av Sveriges största artister och ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srfBmQFGYfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srfBmQFGYfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srfBmQFGYfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pantamera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-01T15:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sX99Nh9SlbjeXLhQJRvKc3j_RK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gp_2B4COjT0"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-02T08:00:17Z",
+        "channelId": "UC7vOukYH_LcbuWddBfGYpDw",
+        "title": "Newkid lagar sin paradrätt!",
+        "description": "Jag fick äntligen chans att träffa Newkid - eller Jhun Alexander Ferrer som han egentligen heter. Vi lagade Newkids mammas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gp_2B4COjT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gp_2B4COjT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gp_2B4COjT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paradrätten",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-02T08:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pOqw8XJENt4IYNIgpbKXVxK47eo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h5Gikrx8FU0"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-20T02:28:53Z",
+        "channelId": "UCoMloO7Xla-QyPPsTKsN_Lw",
+        "title": "Lego DC Super-Villains: Level 1 / New Kid On The Block FREE PLAY (All Collectibles) - HTG",
+        "description": "Lego DC Super-Villains Level 1 / New Kid On The Block FREE PLAY! We have our hands on Lego DC Super-Villains thanks to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h5Gikrx8FU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h5Gikrx8FU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h5Gikrx8FU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HappyThumbsGaming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-20T02:28:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KrphdtnhpQz1Q3Nuy5J_ttwlagc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AbyvJAC9zBE"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-05T14:40:31Z",
+        "channelId": "UCY_IQBBKgyEawhDyT4eTh4g",
+        "title": "💥 THE NEW KID IN TOWN 👀 | 🎄 HAPPY HOLIDAYS 🎄 | Slugterra | Animated Show For Kids | WildBrain Max",
+        "description": "Make sure to SUBSCRIBE to WildBrain today to catch your favourite show uploads EVERY DAY https://goo.gl/gqhX1J Hello and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AbyvJAC9zBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AbyvJAC9zBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AbyvJAC9zBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WildBrain Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-05T14:40:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XhNY5wg8NJbSL7jsJdK0bJ9Ggcg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sljcj9VsWlA"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-20T19:02:03Z",
+        "channelId": "UCVB8x0H1AqtYCxRMo8no4Tg",
+        "title": "Lesson: New Kid In Town - Eagles - All Guitar Parts + Chords for Simple Strumming",
+        "description": "INTRO Here: https://youtu.be/v_hnBR9O_Gs The first video I made for this song was made for a student, and it only covered the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sljcj9VsWlA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sljcj9VsWlA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sljcj9VsWlA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daniel Schorr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-20T19:02:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-fMe5OWmoyKFxh4Hjes7id87pyg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Twp7tGYtV4E"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-30T12:05:15Z",
+        "channelId": "UCrVNldYojuNiHfvTllGFXXA",
+        "title": "The New Kid  Improve Your English Story  Learn English Story Level 1  Practice Speak  Graded Readers",
+        "description": "The New Kid Improve Your English Story Learn English Story Level 1 Practice Speak Graded Readers Memorize of New Words ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Twp7tGYtV4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Twp7tGYtV4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Twp7tGYtV4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "English Listening Stories 24-7 with Allicia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-30T12:05:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j5UNKXEsvCHPf6mjP026HQ7l2lE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Er0N6ihY5T8"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-17T08:00:30Z",
+        "channelId": "UC4JhRFUllafKKc0XdtWjqiw",
+        "title": "Eagles, New Kid in Town, guitar lesson part 1 of 2.  With chords, notes and some strumming patterns.",
+        "description": "Eagles, New Kid in Town, guitar lesson part 1 of 2. First part of song before solo. Breakdown with chords, notes and some ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Er0N6ihY5T8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Er0N6ihY5T8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Er0N6ihY5T8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Guitar Highway",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-17T08:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y9ixT9YP3LuDJfG4RJmdKWGJuIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T5buNkXwy1Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-08T16:00:20Z",
+        "channelId": "UCDrqiuwNRbEahL1UEB0hkKQ",
+        "title": "BEYBLADE GREVOLUTION EN Episode 1: New Kid in Town",
+        "description": "Tyson has just returned back from the World Championships with another victory and he's decided to teach a class of boys in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T5buNkXwy1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T5buNkXwy1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T5buNkXwy1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BEYBLADE Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-08T16:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YEMHUVV3vNVruEzEgGpwcxYKZrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RBmlUCT9vA4"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-03T01:16:46Z",
+        "channelId": "UCISdv4xsp6HovaaC4l64FfQ",
+        "title": "Angel Watching Rayne and her new Kid! is there another one?",
+        "description": "Welcome to Angel Watching... where you are our Angels, watching over our barn. Think of it like an Advance security monitoring ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBmlUCT9vA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBmlUCT9vA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBmlUCT9vA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Goatfather",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-03T01:16:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y70Xr22UrSAEqyaGTxNSoxYSHew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7RPJ3nyrgl0"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-22T21:00:13Z",
+        "channelId": "UCi2h4tfVgbg-SlugQWaiZOQ",
+        "title": "BULLIES try to go 2 vs 1 against the NEW KID — Big mistake… He was a BRUTAL FIGHTER!",
+        "description": "BULLIES try to go 2 vs 1 against the NEW KID — Big mistake… He was a BRUTAL FIGHTER!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7RPJ3nyrgl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7RPJ3nyrgl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7RPJ3nyrgl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bullies NOPE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-22T21:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I-hT4G8tGQixcuTwSBt9whzDqIY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rbimwoMeHzc"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-05T12:00:20Z",
+        "channelId": "UCTn45orVsFOsNZHxAJcZK5g",
+        "title": "Barney | The New Kid / The Princess and the Frog | Full Episode | Season 14",
+        "description": "WATCH A NEW BARNEY VIDEO EVERY THURSDAY RIGHT HERE ON THE OFFICIAL YOUTUBE CHANNEL. Welcome to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rbimwoMeHzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rbimwoMeHzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rbimwoMeHzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Barney the Dinosaur",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-05T12:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RCAHX5x9GzH6Eto1AsJB7Ubb9xU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zB-nuXobba0"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-16T00:30:00Z",
+        "channelId": "UCHRTfR2r0Ss3UjFyw7gSA-A",
+        "title": "Minecraft Daycare -  NEW KID !? (Minecraft Roleplay)",
+        "description": "Minecraft Daycare - NEW KID !? (Minecraft Roleplay)(Minecraft Roleplay) Proper Life ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zB-nuXobba0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zB-nuXobba0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zB-nuXobba0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ryguyrocky",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-16T00:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fTnUBIrkWUyw4B2nL7mg_8UtnJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oa9sz0m3p6I"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-03T10:50:24Z",
+        "channelId": "UCSXfFlWNV8G6WCu5iZG4GXQ",
+        "title": "The New Kid is Special || gay gcmm ||  poly || Enjoy ♡♡",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oa9sz0m3p6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oa9sz0m3p6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oa9sz0m3p6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Krystal Fictions",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-03T10:50:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZCbliEmLvrwQCI3xIYv7WacEmj4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zl0Hh-tMYMw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-16T22:00:23Z",
+        "channelId": "UC7oYsL_fEYcBQxN7dJtHtsg",
+        "title": "NEW KID IN TOWN💽THE BEST OF NONSTOP SLOW ROCK LOVE SONGS BY EMERSON CONDINO AND REY MUSIC COLLECTION",
+        "description": "NEW KID IN TOWN  THE BEST OF NONSTOP SLOW ROCK LOVE SONGS BY EMERSON CONDINO AND REY MUSIC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zl0Hh-tMYMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zl0Hh-tMYMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zl0Hh-tMYMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OPM Library Love",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-16T22:00:23Z"
       }
     }
   ]
